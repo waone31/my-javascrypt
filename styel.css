@@ -1,0 +1,24 @@
+    body {
+        padding: 0px;
+        margin-left: 40%;
+    }
+    
+    .h1 {
+        font-family: Verdana;
+        font-size: 12px;
+    }
+    
+    label {
+        margin-right: 20px;
+    }
+    
+    input {
+        border-radius: 5px;
+        border-color: cyan;
+    }
+    
+    button {
+        background-color: rgb(17, 175, 168);
+        cursor: pointer;
+        margin-left: 6px;
+    }
